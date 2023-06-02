@@ -2,7 +2,7 @@
  MyTherapy App / testing
 
 Se crearon los Test Cases en la matriz:
-[![](My Therapy Matriz.jpg)]()
+[![](MyTherapyMatriz.jpg)]()
 
 Se agregaron los Test Cases de la matriz en JIRA con la herramienta Zephyr:
 
